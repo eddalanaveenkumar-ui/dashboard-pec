@@ -13,7 +13,7 @@ const Sidebar = ({ activePage, onNavigate }) => {
         onNavigate('Dashboard')
       }}>
         <img className="pec-logo" src={pecLogo} alt="Prathyusha Engineering College logo" />
-        <span className="heading-name">PEC</span>
+        <span className="heading-name">PEC ERP</span>
       </a>
       <p className="nav-heading">WORKSPACE</p>
       <nav className="side-nav" aria-label="Main navigation">
